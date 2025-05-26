@@ -1,0 +1,42 @@
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    overflow-x: hidden;
+}
+
+
+.Google-maps{
+    margin-left: 340px;
+    margin-top: -850px;
+    z-index: 2;
+    border-radius: 30px;
+}
+
+.Chat-bubble-Right{
+    rotate: 180deg;
+    margin-left: 4px;
+    z-index: 1 ;
+}
+
+.Chat-bubble-Left{
+    rotate: 180deg;
+    margin-left: 10px;
+}
+
+.shelf{
+    margin-top: 600px;
+    margin-left: 800px;
+}
+.copyright{
+    margin-left: 836px;
+    margin-top: 126px;
+}
+
+h1, h2{
+ margin-top: -20px;
+}
+
+
+
+
